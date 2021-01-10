@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <Version>2.1.58</Version>
-    <Description>基于StackExchange.Redis扩展的Redis操作类库，提升易用性。</Description>
+    <Description>基于StackExchange.Redis扩展的Redis操作类库，旨在提升易用性。</Description>
     <PackageIcon>rainbow_1f308.png</PackageIcon>
     <Authors>Frank Yu</Authors>
     <PackageTags>Redis</PackageTags>
